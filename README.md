@@ -1,4 +1,4 @@
-## Hi there 👋
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/view/hoppers-lizard-tom-gecko-gif-1740352770930329390))
 
 <!--
 **AdelinaDoraMazilu/AdelinaDoraMazilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
